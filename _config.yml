@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Foto de perfil NS.jpeg"
+  avatar           : "Foto_de_perfil_NS.jpeg"
   name             : "Nancy Sotero Silva"
   pronouns         : "she/her"  
   bio              : "Auditory and Neurosciences Researcher"
