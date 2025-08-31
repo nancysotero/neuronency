@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "29, brazilian."
+title: "Auditory and Cognitive Neuroscience"
 author_profile: true
 redirect_from: 
   - /about/
