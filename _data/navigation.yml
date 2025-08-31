@@ -11,23 +11,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
- #   url: /talks/    
-
   - title: "Media"
     url: /media/    
     
   - title: "Lattes"
     url: /lattes/
-        
-#  - title: "Blog Posts"
- #   url: /year-archive/
-    
+
   - title: "CV"
-   url: /cv/
+    url: /cv/
+        
+ #  - title: "Blog Posts"
+ #   url: /year-archive/
+
+ #  - title: "Talks"
+ #   url: /talks/ 
+
+ # - title: "CV"
+ #   url: /cv-json/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-#  - title: "Guide"
+ #  - title: "Guide"
  #   url: /markdown/
