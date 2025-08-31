@@ -9,16 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /neuronency/publications/
+    url: /publications/
 
   - title: "Media"
-    url: /neuronency/media/    
+    url: /media/    
     
   - title: "Lattes"
-    url: /neuronency/lattes/
+    url: /lattes/
 
   - title: "CV"
-    url: /neuronency/cv/
+    url: /cv/
         
  #  - title: "Blog Posts"
  #   url: /year-archive/
