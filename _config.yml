@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Nancy Sotero Silva"
 title_separator          : "-"
 name                     : &name "Nancy Sotero Silva"
-description              : &description "SLP and Hearing Sciences"
+description              : &description ""
 url                      : https://nancysotero.github.io/neuronency/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "neuronency/nancysotero.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Nancy Sotero Silva"
   pronouns         : "she/her"  
-  bio              : "Auditory and Neurosciences Researcher"
+  bio              : "29, brazilian"
   location         : "Germany"
   employer         : "Bielefeld University"
   uri              : # URL
