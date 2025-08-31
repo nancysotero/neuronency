@@ -223,7 +223,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  lattes:
+  talks:
     output: true
     permalink: /:collection/:path/
   cv:
@@ -272,7 +272,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: lattes
+      type: talks
     values:
       layout: single
       author_profile: true
