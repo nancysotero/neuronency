@@ -12,13 +12,13 @@ main:
     url: /neuronency/publications/
 
   - title: "Media"
-    url: /media/    
+    url: /neuronency/media/    
     
   - title: "Lattes"
-    url: /lattes/
+    url: /neuronency/lattes/
 
   - title: "CV"
-    url: /cv/
+    url: /neuronency/cv/
         
  #  - title: "Blog Posts"
  #   url: /year-archive/
