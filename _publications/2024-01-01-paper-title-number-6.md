@@ -4,7 +4,6 @@ collection: publications
 category: book
 permalink: /publication/2024-01-01-paper-title-number-6
 excerpt: 'Book chapter, in Portuguese.'
-excerpt: 'In Portuguese'
 date: 2024
 venue: 'Thieme Revinter'
 #paperurl: 'https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/view/54617'
