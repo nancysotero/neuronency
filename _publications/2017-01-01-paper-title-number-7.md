@@ -1,7 +1,7 @@
 ---
 title: "Tinnitus: a general introduction"
 collection: publications
-category: book
+category: books
 permalink: /publication/2017-01-01-paper-title-number-7
 excerpt: 'Book chapter, in Portuguese.'
 date: 2017
