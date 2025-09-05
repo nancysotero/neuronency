@@ -33,8 +33,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
+   
 Teaching
 ======
 * Federal University of Rio Grande do Norte, Brazil, 2021-2022
