@@ -16,23 +16,6 @@ Education
 * Multiprofessional Residency in Person with disabilities Health Care, Anita Garibaldi Center for Education and Research in Health, Brazil, 2021
 * BSc in Speech, Language and Hearing Sciences, Federal University of Paraíba, Brazil, 2018
 
-#Work experience
-#======
-#* Spring 2024: Academic Pages Collaborator
- # * GitHub University
-  #* Duties includes: Updates and improvements to template
-  #* Supervisor: The Users
-
-#* Fall 2015: Research Assistant
- # * GitHub University
-  #* Duties included: Merging pull requests
-  #* Supervisor: Professor Hub
-
-#* Summer 2015: Research Assistant
- # * GitHub University
-  #* Duties included: Tagging issues
-  #* Supervisor: Professor Git
-  
 Skills
 ======
 * Eletrophysiology
@@ -51,11 +34,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
- # <ul>{% for post in site.talks reversed %}
-  #  {% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
   
 Teaching
 ======
