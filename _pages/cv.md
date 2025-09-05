@@ -59,9 +59,9 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Federal University of Rio Grande do Norte, Brazil, 2021-2022
+  * Electronic hearing devices rehabilitation - Supervision to Clinical Practice for Undergraduate
+  * Otoneurology, Balance Disorders and Occupational Audiology - Undergraduation courses
   
 Service and leadership
 ======
