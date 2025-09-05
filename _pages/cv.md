@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Biology - Cognite Neuroscience, Bielefeld University, Germany, 2023-current
+* MSc in Neuroengineering, Edmond and Lily Safra International Institute of Neurosciences, Brazil, 2023
+* Multiprofessional Residency in Person with disabilities Health Care, Anita Garibaldi Center for Education and Research in Health, Brazil, 2021
+* BSc in Speech, Language and Hearing Sciences, Federal University of Paraíba, Brazil, 2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#Work experience
+#======
+#* Spring 2024: Academic Pages Collaborator
+ # * GitHub University
+  #* Duties includes: Updates and improvements to template
+  #* Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+ # * GitHub University
+  #* Duties included: Merging pull requests
+  #* Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#* Summer 2015: Research Assistant
+ # * GitHub University
+  #* Duties included: Tagging issues
+  #* Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Eletrophysiology
+  * EEG, ERPs, ABR, FFR
+* fNIRS
+* Eye tracking, pupillometry
+* Psychophysics anf behavioral experiment design
+* Hearing tests 
+  * PTA, middle ear assessmente, OAEs
+* Data processing and analysis (Basic MATLAB, Python)
+*  Languages: Native portuguse, english, spanish (basic), german (basic)
 
 Publications
 ======
@@ -47,11 +51,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+ # <ul>{% for post in site.talks reversed %}
+  #  {% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
 Teaching
 ======
@@ -61,4 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student representation - National SLP's Student Executive Board (2017 e 2021)
+  * General Coordination between 2018-2019
+  * Organising National Conferences and regional meetings from 2017 to 2019
