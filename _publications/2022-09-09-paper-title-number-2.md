@@ -8,7 +8,7 @@ date: October 2022
 venue: 'Journal of Neurological Disorders'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://repositorio.ufrn.br/server/api/core/bitstreams/837e8c29-d712-44fb-abcf-c1469820022c/content'
-citation: 'SOTERO SILVA, N. et al (2022) &quot;Review of Audiological Findings in SARS-CoV-2 Infection.&quot; <i>J Neurol Disord</i> 10:514 DOI: 10.4172/2329-6895.10.9.514'
+citation: 'SOTERO SILVA, N.; EVANGELISTA, C.K.S.; CAVALCANTI, P.F. et al (2022) &quot;Review of Audiological Findings in SARS-CoV-2 Infection.&quot; <i>J Neurol Disord</i> 10:514 DOI: 10.4172/2329-6895.10.9.514'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
