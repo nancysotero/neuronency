@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "email": "n.sotero@uni-bielefeld.de",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://nancysotero.github.io/neuronency/",
+    "summary": "PhD Student at Universität Bielefeld.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
@@ -25,43 +25,52 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "nancysotero",
+        "url": "https://github.com/nancysotero"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Bielefeld University, Germany",
+      "area": "PhD in Biology - Cognite Neuroscience",
       "studyType": "",
-      "startDate": "",
+      "startDate": "July 2023",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Edmond and Lily Safra International Institute of Neurosciences, Brazil",
+      "area": "MSc in Neuroengineering",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
+        {
+      "institution": "Anita Garibaldi Center for Education and Research in Health, Brazil",
+      "area": "Multiprofessional Residency in Person with disabilities Health Care",
+      "studyType": "",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Paraíba, Brazil",
+      "area": "BSc in Speech, Language and Hearing Sciences",
+      "studyType": "",
+      "startDate": "2014",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": "Native Portuguese, English, Spanish, German",
   "interests": [],
   "references": [],
   "publications": [
@@ -126,17 +135,17 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Electronic hearing devices rehabilitation",
+      "institution": "Federal University of Rio Grande do Norte, Brazil",
+      "date": "2021",
+      "role": "Supervision to Clinical Practice for Undergraduates",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Otoneurology, Balance Disorders and Occupational Audiology",
+      "institution": "Federal University of Rio Grande do Norte, Brazil",
+      "date": "2022",
+      "role": "Undergraduation courses",
       "description": ""
     }
   ],
