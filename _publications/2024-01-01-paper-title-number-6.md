@@ -1,7 +1,7 @@
 ---
 title: "Interface between Music and Audiology"
 collection: publications
-category: book
+category: books
 permalink: /publication/2024-01-01-paper-title-number-6
 excerpt: 'Book chapter, in Portuguese.'
 date: August 2024
