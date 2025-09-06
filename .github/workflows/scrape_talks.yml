@@ -35,3 +35,10 @@ jobs:
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
         git push
+
+    - name: Push changes
+      env:
+       SEILA: ${{ secrets.SEILA }}
+      run: |
+         git push https://x-access-token:${PAT_TOKEN}@github.com/nancysotero/neuronency.git HEAD:master
+
