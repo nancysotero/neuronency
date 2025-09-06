@@ -35,17 +35,17 @@ Research Experience
 
 Honors and Grants
 =====
-*  International Symposium on Auditory and Audiological Research/William Demant Foundation - August 2025
-  *  Scholarship for attendance and presentation, Nyborg, Denmark.
-*  FENS, IBRO-PERC, Early Career Training Program Award (ECTP) - June 2024 
+* International Symposium on Auditory and Audiological Research/William Demant Foundation - August 2025
+  * Scholarship for attendance and presentation, Nyborg, Denmark.
+* FENS, IBRO-PERC, Early Career Training Program Award (ECTP) - June 2024 
   * Stipend for internship at Sound and Speech Perception Research Group, Institute of Cognitive Neuroscience and Psychology of the Research Center for Natural Sciences, Budapest, Hungary.
-*  EPFL, Summer Research Program - July- August 2022
+* EPFL, Summer Research Program - July- August 2022
   * Stipend for internship at Medical Image Processing Lab - Campus Biotech, Geneva, Switzerland. 
-*  Santos Dumont Institute - November 2022 
+* Santos Dumont Institute - November 2022 
   * Awarded one of the five best presentations on VIII Neuroengineering Symposium, Macaíba, Brazil 
-*  3rd Virtual Conference on Computational Audiology - June 2022
+* 3rd Virtual Conference on Computational Audiology - June 2022
   * Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" presentation. 
-*  Federal University of Paraíba -  July 2018 
+* Federal University of Paraíba -  July 2018 
   * Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10
 
 Skills
@@ -62,8 +62,7 @@ Skills
 
 Currículo Lattes
 =====
-Brazilian CV repository - available in portuguese and english)
-pageurl: 'http://lattes.cnpq.br/1550368566230024'
+[Brazilian CV repository](http://lattes.cnpq.br/1550368566230024) - available in portuguese and english
  
 Service and leadership
 ======
