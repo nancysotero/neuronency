@@ -24,8 +24,8 @@ Teaching
 
 Research Experience
 =====
-*Cognitive Neuroscience Lab - Bielefeld University, Bielefeld, Germany July 2023 - Currently
-  * PhD Candidate | Scientific worker. Subject: visual-auditory integration, spatial hearing, eye movement-related eardrums oscillations.
+* Cognitive Neuroscience Lab - Bielefeld University, Bielefeld, Germany July 2023 - Currently
+  * PhD Candidate/Scientific worker. Project: visual-auditory integration, spatial hearing, eye movement-related eardrums oscillations.
 * Electrophysiological, vascular/hemodinamic and pupillometric measures in cortical plasticity monitoring of hearing aids adult users - ELS-IIN 2019 - 2023
   * Conducted recordings in electroencephalography (BrainVision), ABR, FFR, ERP, pupillometry (Mangold) and fNIRS (NirX), data acquisition, processing and analysis; participants managment (patients from a hearing rehabilitation service and normal hearing subjects).
 * "Absolute Pitch" in music graduation students: is there a relationship with temporal auditory processing? - UFPB, João Pessoa, Brazil 2017 - 2018
