@@ -15,6 +15,9 @@
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
+    "minimal-mistakes",
+    "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}",
+
     "include/mixins",
     "vendor/susy/susy",
 
@@ -41,7 +44,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-@import 
-   "minimal-mistakes";
-   "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
