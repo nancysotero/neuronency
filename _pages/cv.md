@@ -59,6 +59,11 @@ Skills
   * PTA, middle ear assessmente, OAEs
 * Data processing and analysis (Basic MATLAB, Python)
 *  Languages: Native portuguse, english, spanish (basic), german (basic)
+
+Currículo Lattes
+=====
+Brazilian CV repository - available in portuguese and english)
+pageurl: 'http://lattes.cnpq.br/1550368566230024'
  
 Service and leadership
 ======
