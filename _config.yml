@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Nancy Sotero Silva"
   pronouns         : "she/her"  
-  bio              : "29, brazilian"
+  bio              : #"29, brazilian"
   location         : "Germany"
   employer         : "Bielefeld University"
   uri              : # URL
