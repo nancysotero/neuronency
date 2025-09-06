@@ -40,5 +40,5 @@ jobs:
       env:
        SEILA: ${{ secrets.SEILA }}
       run: |
-         git push https://x-access-token:${PAT_TOKEN}@github.com/nancysotero/neuronency.git HEAD:master
+         git push https://x-access-token:${SEILA}@github.com/nancysotero/neuronency.git HEAD:master
 
