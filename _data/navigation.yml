@@ -14,11 +14,11 @@ main:
   - title: "Media"
     url: /media/    
     
-  - title: "Lattes"
-    url: /lattes/
-
   - title: "CV"
     url: /cv/
+    
+#  - title: "Lattes"
+#    url: /lattes/
         
  #  - title: "Blog Posts"
  #   url: /year-archive/
